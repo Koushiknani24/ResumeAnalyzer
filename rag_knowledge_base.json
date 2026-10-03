@@ -1,0 +1,50 @@
+[
+    {
+        "category": "action_verbs",
+        "tag": "leadership",
+        "content": "Spearheaded",
+        "example": "Spearheaded a team of 10 engineers to deliver the product 2 weeks ahead of schedule."
+    },
+    {
+        "category": "action_verbs",
+        "tag": "optimization",
+        "content": "Architected",
+        "example": "Architected a scalable microservices backend that reduced latency by 40%."
+    },
+    {
+        "category": "action_verbs",
+        "tag": "data",
+        "content": "Quantified",
+        "example": "Quantified user engagement metrics, leading to a 15% increase in retention."
+    },
+    {
+        "category": "best_practice",
+        "tag": "bullet_points",
+        "content": "Use the XYZ format for bullet points: Accomplished [X] as measured by [Y], by doing [Z].",
+        "example": "Increased revenue by 10% (X) measured by Q3 sales (Y) by implementing a new email campaign (Z)."
+    },
+    {
+        "category": "best_practice",
+        "tag": "quantification",
+        "content": "Always include numbers to quantify impact.",
+        "example": "Instead of 'Improved performance', write 'Reduced page load time by 1.2 seconds, increasing conversion by 5%'."
+    },
+    {
+        "category": "industry_skills",
+        "tag": "software_engineering",
+        "content": "Cloud Platforms (AWS, GCP, Azure)",
+        "example": "Deployed scalable applications using AWS EC2, S3, and Lambda."
+    },
+    {
+        "category": "industry_skills",
+        "tag": "data_science",
+        "content": "Machine Learning Frameworks (TensorFlow, PyTorch, Scikit-learn)",
+        "example": "Trained predictive models using PyTorch to forecast demand with 92% accuracy."
+    },
+    {
+        "category": "industry_skills",
+        "tag": "product_management",
+        "content": "Agile/Scrum Methodologies",
+        "example": "Led daily standups and sprint planning for a cross-functional team of 15 members."
+    }
+]
